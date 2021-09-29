@@ -1,8 +1,8 @@
 /* Theme */
 
 main {
-	background: #FFEB3B;
-	color: #1E1E1E;
+	background: #f35106;
+	color: #eeeeee;
 }
 
 .icons-social a {
@@ -10,5 +10,5 @@ main {
 }
 
 .icons-social a svg path{
-	fill: #1E1E1E;
+	fill: #575454;
 }
